@@ -1,0 +1,12 @@
+.git
+.gitignore
+.dart_tool/
+.idea/
+build/
+android/
+ios/
+linux/
+macos/
+windows/
+*.apk
+*.aab

@@ -1,0 +1,35 @@
+{
+    "name": "Z Chat",
+    "short_name": "Z Chat",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#090A0F",
+    "theme_color": "#090A0F",
+    "description": "Z Chat - Modern, Minimal & Customizable Messaging",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
